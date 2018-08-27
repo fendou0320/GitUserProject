@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "FenZhi21.h"
 
 @interface ViewController ()
 

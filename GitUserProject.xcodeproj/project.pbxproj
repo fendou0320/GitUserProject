@@ -15,6 +15,7 @@
 		0472E07E213390EF00AC1AE7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0472E07D213390EF00AC1AE7 /* main.m */; };
 		0472E088213390EF00AC1AE7 /* GitUserProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0472E087213390EF00AC1AE7 /* GitUserProjectTests.m */; };
 		0472E093213390EF00AC1AE7 /* GitUserProjectUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0472E092213390EF00AC1AE7 /* GitUserProjectUITests.m */; };
+		0472E0A22133933A00AC1AE7 /* FenZhi21.m in Sources */ = {isa = PBXBuildFile; fileRef = 0472E0A12133933A00AC1AE7 /* FenZhi21.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		0472E08E213390EF00AC1AE7 /* GitUserProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitUserProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0472E092213390EF00AC1AE7 /* GitUserProjectUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitUserProjectUITests.m; sourceTree = "<group>"; };
 		0472E094213390EF00AC1AE7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0472E0A02133933A00AC1AE7 /* FenZhi21.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FenZhi21.h; sourceTree = "<group>"; };
+		0472E0A12133933A00AC1AE7 /* FenZhi21.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FenZhi21.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				0472E06F213390EF00AC1AE7 /* AppDelegate.m */,
 				0472E071213390EF00AC1AE7 /* ViewController.h */,
 				0472E072213390EF00AC1AE7 /* ViewController.m */,
+				0472E0A02133933A00AC1AE7 /* FenZhi21.h */,
+				0472E0A12133933A00AC1AE7 /* FenZhi21.m */,
 				0472E074213390EF00AC1AE7 /* Main.storyboard */,
 				0472E077213390EF00AC1AE7 /* Assets.xcassets */,
 				0472E079213390EF00AC1AE7 /* LaunchScreen.storyboard */,
@@ -262,6 +267,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0472E0A22133933A00AC1AE7 /* FenZhi21.m in Sources */,
 				0472E073213390EF00AC1AE7 /* ViewController.m in Sources */,
 				0472E07E213390EF00AC1AE7 /* main.m in Sources */,
 				0472E070213390EF00AC1AE7 /* AppDelegate.m in Sources */,
