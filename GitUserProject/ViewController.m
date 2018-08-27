@@ -20,6 +20,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    //开始
+    NSLog(@"开始");
     //-----------------
     NSLog(@"主分支");
     
@@ -37,6 +39,9 @@
     NSLog(@"分支2018-08-002");
     
     NSLog(@"分支2018-08-002-01");
+    
+    
+    
 }
 
 
