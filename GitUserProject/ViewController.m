@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "FenZhi21.h"
 #import "FenZhi1.h"
 
 @interface ViewController ()
@@ -19,6 +20,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    //-----------------
     NSLog(@"主分支");
     NSLog(@"分支2018-08-001");
     
@@ -30,6 +32,10 @@
 
     NSLog(@"分支2018-08-001-03");
 
+    //-----------------
+    NSLog(@"分支2018-08-002");
+    
+    NSLog(@"分支2018-08-002-01");
 }
 
 
