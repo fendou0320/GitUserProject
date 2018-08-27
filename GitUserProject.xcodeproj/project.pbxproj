@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		041FD983213399B2003A29A9 /* FenZhi1.m in Sources */ = {isa = PBXBuildFile; fileRef = 041FD982213399B2003A29A9 /* FenZhi1.m */; };
 		0472E070213390EF00AC1AE7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0472E06F213390EF00AC1AE7 /* AppDelegate.m */; };
 		0472E073213390EF00AC1AE7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0472E072213390EF00AC1AE7 /* ViewController.m */; };
 		0472E076213390EF00AC1AE7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0472E074213390EF00AC1AE7 /* Main.storyboard */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		041FD981213399B2003A29A9 /* FenZhi1.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FenZhi1.h; sourceTree = "<group>"; };
+		041FD982213399B2003A29A9 /* FenZhi1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FenZhi1.m; sourceTree = "<group>"; };
 		0472E06B213390EF00AC1AE7 /* GitUserProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUserProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0472E06E213390EF00AC1AE7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0472E06F213390EF00AC1AE7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,6 +113,8 @@
 				0472E072213390EF00AC1AE7 /* ViewController.m */,
 				0472E0A02133933A00AC1AE7 /* FenZhi21.h */,
 				0472E0A12133933A00AC1AE7 /* FenZhi21.m */,
+				041FD981213399B2003A29A9 /* FenZhi1.h */,
+				041FD982213399B2003A29A9 /* FenZhi1.m */,
 				0472E074213390EF00AC1AE7 /* Main.storyboard */,
 				0472E077213390EF00AC1AE7 /* Assets.xcassets */,
 				0472E079213390EF00AC1AE7 /* LaunchScreen.storyboard */,
@@ -269,6 +274,7 @@
 			files = (
 				0472E0A22133933A00AC1AE7 /* FenZhi21.m in Sources */,
 				0472E073213390EF00AC1AE7 /* ViewController.m in Sources */,
+				041FD983213399B2003A29A9 /* FenZhi1.m in Sources */,
 				0472E07E213390EF00AC1AE7 /* main.m in Sources */,
 				0472E070213390EF00AC1AE7 /* AppDelegate.m in Sources */,
 			);
